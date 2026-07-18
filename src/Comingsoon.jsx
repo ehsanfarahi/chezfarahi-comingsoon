@@ -7,18 +7,17 @@ const LAUNCH_DATE    = "2026-09-15T18:00:00"; // update this when ready
 // ──────────────────────────────────────────────────────────────────────────────
 
 const TICKER_ITEMS = [
-  "🥟 Samosas Agneau",
-  "🌭 Hot-Dog Épicé",
-  "🥪 Sandwich Poulet Mariné",
-  "🍟 Frites Maison",
-  "🥙 Sandwich Falafel",
+  "🥟 Samosas Aux Légumes",
+  "🌭 Hot-Dog",
+  "🥪 Sandwich Poulet",
+  "🍟 Frites Croustillantes",
+  "🥙 Chicken Chow Mein",
   "🤖 Assisté par l'IA",
-  "🥟 Samosas Légumes",
+  "🥟 Samosas Aux Légumes Épicé",
   "🔔 Notification quand c'est prêt",
   "🌭 Hot-Dog Classique",
   "🍟 Frites Épicées",
   "📱 Commande par QR code",
-  "🥪 Pain Maison",
 ];
 
 function useCountdown(target) {
