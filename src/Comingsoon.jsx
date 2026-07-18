@@ -224,7 +224,7 @@ export default function ComingSoon() {
               <span style={{
                 width: 4, height: 4, borderRadius: "50%", background: "#C8432A",
               }} /> */}
-              <img src={`public/logo.png`} />
+              <img src={`/logo.png`} />
             </div>
           </div>
         </div>
